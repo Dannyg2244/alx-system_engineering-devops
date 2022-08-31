@@ -1,1 +1,1 @@
-ls -l means display current directory contents in a long format
+ls -al means list more file including the hidden file in a long format
