@@ -1,1 +1,1 @@
-mv means to move files or folder
+rm is used to delete a file
