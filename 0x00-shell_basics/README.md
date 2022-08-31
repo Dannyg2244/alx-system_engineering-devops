@@ -1,1 +1,1 @@
-ls -al means list more file including the hidden file in a long format
+ls -na means display current working directory including the user and group IDs
