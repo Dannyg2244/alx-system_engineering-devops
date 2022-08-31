@@ -1,1 +1,1 @@
-rm -r means delete directory
+cd - means change the working directory to the previous one
