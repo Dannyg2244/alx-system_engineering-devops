@@ -1,1 +1,1 @@
-rm is used to delete a file
+rm -r means delete directory
