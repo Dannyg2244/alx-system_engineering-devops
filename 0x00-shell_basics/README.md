@@ -1,1 +1,1 @@
-create a directory my_first_directory in the /tmp/ directory
+mv means to move files or folder
