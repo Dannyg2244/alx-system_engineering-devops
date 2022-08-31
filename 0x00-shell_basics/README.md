@@ -1,1 +1,1 @@
-Display the content list of current working directory
+ cd ~ change the working directory to the user's home directory
