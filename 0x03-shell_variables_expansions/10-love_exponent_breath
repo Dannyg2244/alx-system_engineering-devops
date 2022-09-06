@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $((BRTTY**LOVE))"\n"
+echo $((BRTTY**LOVE))
